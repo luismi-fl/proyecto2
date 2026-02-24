@@ -1,0 +1,35 @@
+* {
+    padding: 5px;
+    margin: 5px;
+    border: 0px;
+}
+
+body {
+    background-color: yellow;
+}
+
+header {
+    background-color: orange;
+    width: auto;
+    height: 50px;
+}
+
+nav {
+    background-color: rgb(90, 90, 9);
+}
+
+section {
+    background-color: azure;
+    width: auto;
+    height: 200px;
+}
+
+aside {
+    background-color: violet;
+}
+
+footer {
+    background-color: aqua;
+    width: auto;
+    height: 50px;
+}
